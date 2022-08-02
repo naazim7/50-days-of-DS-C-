@@ -56,3 +56,13 @@ int main() {
 
     return 0;
 }
+/*
+Time Complexities
+
+Best case complexity: O(1)
+Average case complexity: O(log n)
+Worst case complexity: O(log n)
+Space Complexity
+
+The space complexity of the binary search is O(1).
+*/
